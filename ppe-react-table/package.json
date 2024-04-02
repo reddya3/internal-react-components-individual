@@ -1,7 +1,7 @@
 {
-  "name": "@ppe/ppe-react-button",
+  "name": "@ppe/ppe-react-table",
   "version": "0.1.8",
-  "description": "A React module of a button following Leyden styles",
+  "description": "A React module that has tables of PPE",
   "license": "SEE LICENSE IN LICENSE",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
